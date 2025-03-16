@@ -6,3 +6,4 @@ https://www.youtube.com/watch?v=LlvBzyy-558 - React Hooks Course - All React Hoo
 Web sources
 https://react.dev/
 https://react.dev/learn/tutorial-tic-tac-toe
+https://react.dev/learn/passing-props-to-a-component - learning react and reading documentation.
