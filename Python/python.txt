@@ -1,1 +1,3 @@
 https://www.youtube.com/watch?v=0K_eZGS5NsU - Python for Coding Interviews - Everything you need to Know
+https://www.youtube.com/watch?v=kQDxmjfkIKY - Data Structures And Algorithms in Python - Python Data Structures Full Tutorial (2020)
+
