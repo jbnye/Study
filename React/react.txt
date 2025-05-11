@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=5r25Y9Vg2P4 - All 17 React Best Practices (IMPOR
 
 
 Web sources
-https://react.dev/
+https://react.dev/-
 https://react.dev/learn/tutorial-tic-tac-toe
 https://react.dev/learn/passing-props-to-a-component - learning react and reading documentation. Describing the UI section
 https://react.dev/learn/updating-objects-in-state - Adding interactivy section
