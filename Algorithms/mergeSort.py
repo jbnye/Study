@@ -1,16 +1,16 @@
 def mergeSort (nums):
 
-    left = nums[: len(nums) // 2 ]
-    right = nums[len(nums) //2 :]
+    left = nums[:len(nums) // 2]
+    right = nums[len(nums) // 2:]
     if(len(nums) <= 1):
-        return nums
-    
+        return
+
     mergeSort(left)
     mergeSort(right)
 
-    i = 0
-    j = 0
-    k = 0
+    i =0
+    j =0
+    k =0
 
     while(i < len(left) and j < len(right)):
         if(left[i] < right[j]):
@@ -20,9 +20,9 @@ def mergeSort (nums):
         else:
             nums[k] = right[j]
             j += 1
-            k += 1
-    
-    while (i < len(left)):
+            k +=1
+        
+    while(i < len(left)):
         nums[k] = left[i]
         i += 1
         k += 1
@@ -30,22 +30,13 @@ def mergeSort (nums):
         nums[k] = right[j]
         j += 1
         k += 1
-    
 
     return nums
 
 
 
-
-
-
-
 nums = [3,1,6,5,7,2,9,8]
 print(mergeSort(nums))
-
-
-
-
 
 
 
