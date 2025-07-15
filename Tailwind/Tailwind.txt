@@ -1,0 +1,2 @@
+https://www.youtube.com/watch?v=6biMWgD6_JY - Javascriptmaster tailwind video
+https://tailwindcss.com/docs/box-shadow - read the effects 
